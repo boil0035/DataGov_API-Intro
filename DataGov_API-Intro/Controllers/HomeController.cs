@@ -13,7 +13,7 @@ namespace DataGov_API_Intro.Controllers
         HttpClient httpClient;
 
         //static string BASE_URL = "https://developer.nps.gov/api/v1/";
-        static string API_KEY = "mdBybOievMdeX3eYSC0MhFu3U7xRV18xHAPG04qb"; //Add your API key here inside ""
+        static string API_KEY = "mdBybOievMdeX3eYSC0MhFu3U7xRV18xHAPG04qb"; //Add your the API key here inside ""
 
         static string BASE_URL = "https://data.cdc.gov/api/views/hk9y-quqm/rows.json";
         // Obtaining the API key is easy. The same key should be usable across the entire
